@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)
 <h1 align="center">Hi 👋, I'm SUNNY SAMSON</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e16e7418a6826b5d698e941c0888d251b8eaf748f61d4a4a656d4c83e9531766/68747470733a2f2f632e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoder88&label=Profile%20views&color=0e75b6&style=flat" alt="darkcoder88" /> </p>
 
