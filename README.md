@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif)
 <h1 align="center">Hi 👋, I'm SUNNY SAMSON</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
